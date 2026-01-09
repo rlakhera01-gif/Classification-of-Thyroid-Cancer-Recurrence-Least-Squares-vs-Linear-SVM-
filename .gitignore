@@ -35,7 +35,3 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Data / outputs (uncomment if you don't want to track large artifacts)
-# data/**/*.csv
-# images/
