@@ -1,0 +1,8 @@
+# Core
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# Notebooks
+jupyter
